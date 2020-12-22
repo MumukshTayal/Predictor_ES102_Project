@@ -3,6 +3,7 @@ Project on Heart Disease predictor through machine learning using sklearn librar
 
 Additional libraries used in this project are: 1)sklearn 2)pandas 3)matplotlib
 
+Please ignore folder named ES102_Project. Open the folder with name ES102_Project(1)
 Files uploaded to the repository: 1)ES102_Project.py 2)ES102_Project.ipynb 3)heart.csv
 File (1) is the regular .py file of the code, File (2) is the .ipynb file which can be directly uploaded to google colab to run the program (Preferred method as this method doesn't require to install libraries), File (3) is the .csv file which stores the dataset from which data is retrieved to run the project successfully.
 
